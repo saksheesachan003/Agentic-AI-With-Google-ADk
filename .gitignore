@@ -3,3 +3,4 @@ __pycache__/
 .env
 .adk/
 *.pyc
+# These are some important topic
